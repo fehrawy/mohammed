@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif ;
+
+}
+
+
+
+.continer{
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+form{
+    display: grid;
+    background-color: rgb(91, 235, 91);
+    padding: 20px;
+    border-radius: 20px;
+
+}
+
+input{
+    margin: 7px;
+    border: none;
+    border-bottom:2px solid green;
+    background-color:  rgb(91, 235, 91);
+    height: 20px;
+}
+
+button{
+    background-color: green;
+    border: none;
+    height: 40px;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+
